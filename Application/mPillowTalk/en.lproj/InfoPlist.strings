@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  mPillowTalk
+
+  Created by Lakr Aream on 4/17/21.
+  
+*/
+
+NSCameraUsageDescription = "We need camera access permission to scan qr code, your image won't leave your device.";
+NSLocalNetworkUsageDescription = "We need local network permission to connect your server.";
+NSFaceIDUsageDescription = "FaceID is used to authorize operations";

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:mPillowTalk.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/CodeScanner">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/CodeViewer">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/CSSH">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/GCDWebServer">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/NMSSH">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/PTFoundation">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/SQL">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/SwiftBonjour">
+   </FileRef>
+   <FileRef
+      location = "group:../Foundation/SwiftTerm">
+   </FileRef>
+</Workspace>

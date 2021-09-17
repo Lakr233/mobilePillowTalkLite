@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "FLUENT_CLOSED_CAPTION.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "FLUENT_CLOSED_CAPTION@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "FLUENT_CLOSED_CAPTION@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "template"
+  }
+}

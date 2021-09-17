@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ACE in Action</title>
+<style type="text/css" media="screen">
+    #editor {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+</style>
+</head>
+<body>
+
+<div id="editor">
+</div>
+    
+<script src="./ace.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    var editor = ace.edit("editor");
+    editor.setShowPrintMargin(false);
+    
+    editor.session.on('change', function(delta) {
+        let message = editor.getValue();
+        window.webkit.messageHandlers.aceEditorDidChanged.postMessage(message);
+    });
+
+    window.webkit.messageHandlers.aceEditorDidReady.postMessage(null); // Need at lead 1 arg
+</script>
+</body>
+</html>

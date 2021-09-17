@@ -1,0 +1,724 @@
+/* %d key(s) in total */
+"%d_KEYS_IN_TOTAL" = "%d key(s) in total";
+
+/* %d records in total */
+"%d_RECORD_IN_TOTAL" = "%d records in total";
+
+/* %ds */
+"%d_SECOND" = "%ds";
+
+/* %d section(s), %d server(s) */
+"%d_SECTIONS_%d_SERVERS" = "%d section(s), %d server(s)";
+
+/* %d servers registered */
+"%d_SERVER_REGISTERED" = "%d servers registered";
+
+/* Account */
+"ACCOUNT" = "Account";
+
+/* Accounts */
+"ACCOUNTS" = "Accounts";
+
+/* Manage accounts and keys associated with your server */
+"ACCOUNTS_SETTING_TINT" = "Manage accounts and keys associated with your server";
+
+/* Add */
+"ADD" = "Add";
+
+/* Add Clip */
+"ADD_CLIP" = "Add Clip";
+
+/* Add Server */
+"ADD_SERVER" = "Add Server";
+
+/* Add server under %@ */
+"ADD_SERVER_UNDER_SECTION" = "%@";
+
+/* Address */
+"ADDRESS" = "Address";
+
+/* Example: 192.168.1.1 */
+"ADDRESS_EXAMPLE" = "Example: 192.168.1.1";
+
+/* An error occurred during submission, check your sheet carefully. */
+"ALERT_ERROR_SUBMIT_NEW_SERVER_TINT" = "An error occurred during submission, check your sheet carefully.";
+
+/* All Core */
+"ALL_CORE" = "All Core";
+
+/* All System Operational */
+"ALL_SYSTEM_OPERATIONAL" = "All System Operational";
+
+/* Pillow Talk */
+"APP_NAME" = "Pillow Talk";
+
+/* Checkpoint */
+"APP_NOUN_CHECKPOINT" = "Checkpoints";
+
+/* Manage */
+"APP_NOUN_MANAGE" = "Manage";
+
+/* Management */
+"APP_NOUN_MANAGEMENT" = "Management";
+
+/* Monitoring */
+"APP_NOUN_MONITORING" = "Monitoring";
+
+/* Registered */
+"APP_NOUN_REGISTERED" = "Registered";
+
+/* Scheduled jobs */
+"APP_NOUN_SCHEDULED_JOBS" = "Scheduled Jobs";
+
+/* Server */
+"APP_NOUN_SERVER" = "Servers";
+
+/* Warning */
+"APP_NOUN_WARN" = "Warnings";
+
+/* App Protection */
+"APP_PROTECTION" = "App Protection";
+
+/* Execution Protection */
+"APP_PROTECTION_SCRIPT" = "Execution Protection";
+
+/* Authenticate when execute script on server */
+"APP_PROTECTION_SCRIPT_TINT" = "Authenticate when execute script on server";
+
+/* Protect us from unauthorized operations when app become active */
+"APP_PROTECTION_TINT" = "Protect us from unauthorized operations when app become active";
+
+/* An error occurred previously during application setup. */
+"APP_RECOVERY_DESCRIPTION" = "An error occurred previously during application setup";
+
+/* Continue */
+"APP_RECOVERY_OPTION_CONTINUE" = "Continue";
+
+/* Try Again */
+"APP_RECOVERY_OPTION_REBOOT" = "Try Again";
+
+/* Exit the app and try again. Try something else if error priests. */
+"APP_RECOVERY_OPTION_REBOOT_DESCRIPTION" = "Exit the app and try again. Try something else if error priests.";
+
+/* Reset Application */
+"APP_RECOVERY_OPTION_RESET" = "Reset Application";
+
+/* Delete all your data in this app and start fresh. */
+"APP_RECOVERY_OPTION_RESET_DESCRIPTION" = "Delete all your data in this app and start fresh.";
+
+/* App Recovery */
+"APP_RECOVERY_TITLE" = "App Recovery";
+
+/* App Status */
+"APP_STATUS" = "App Status";
+
+/* Appearance */
+"APPERANCE" = "Appearance";
+
+/* Make the app in your taste */
+"APPERANCE_SETTING_TINT" = "Make the app in your taste";
+
+/* Application does not have any diagnostic data, try again later. */
+"APPLICATION_NO_LOG" = "Application does not have any diagnostic data, try again later.";
+
+/* Are you sure you want to delete %@? */
+"ARE_YOU_SURE_DELETE_SCRIPT" = "Are you sure you want to delete %@?";
+
+/* Are you sure you want to delete %@? */
+"ARE_YOU_SURE_DELETE_SERVER" = "Are you sure you want to delete %@?";
+
+/* Authentication enabled and required */
+"AUTH_ERQUIRED" = "Authentication enabled and required";
+
+/* Average Load 15 min */
+"AVERAGE_LOAD_15_MIN" = "Average Load 15 min";
+
+/* Average Load 1 min */
+"AVERAGE_LOAD_1_MIN" = "Average Load 1 min";
+
+/* Average Load 5 min */
+"AVERAGE_LOAD_5_MIN" = "Average Load 5 min";
+
+/* No device found over Bonjour service */
+"BONJOUR_NO_DEVICE_FOUND" = "No device found over Bonjour service";
+
+/* Cancel */
+"CANCEL" = "Cancel";
+
+/* Close */
+"CLOSE" = "Close";
+
+/* Coming Soon */
+"COMING_SOON" = "Coming Soon";
+
+/* We are polishing our terminal view and fixing bugs in it, come back later in next version. We meet you there. */
+"COMING_SOON_TINT" = "We are polishing our terminal view and fixing bugs in it, come back later in next version. We meet you there.";
+
+/* Confirm */
+"CONFIRM" = "Confirm";
+
+/* Connect */
+"CONNECT" = "Connect";
+
+/* Failed to open session for shell, please try again later. */
+"CONNECT_FAILED" = "Failed to open session for shell, please try again later.";
+
+/* Connectivity */
+"CONNECTIVITY" = "Connectivity";
+
+/* Continue */
+"CONTINUE" = "Continue";
+
+/* Copied */
+"COPIED" = "Copied";
+
+/* Copied SSH command. */
+"COPIED_SSH_COMMAND_ALERT" = "Copied SSH command.";
+
+/* Copy */
+"COPY" = "Copy";
+
+/* Copy Name */
+"COPY_NAME" = "Copy Name";
+
+/* Copied server name. */
+"COPY_NAME_ALERT" = "Copied server name.";
+
+/* Copyright © 2020 Pillow Talk Team. All rights reserved. */
+"COPY_RIGHT_FULL" = "Copyright © 2020 Pillow Talk Team. All rights reserved.";
+
+/* Copy Script */
+"COPY_SCRIPT" = "Copy Script";
+
+/* Copy SSH Command */
+"COPY_SSH_COMMAND" = "Copy SSH Command";
+
+/* Create */
+"CREATE" = "Create";
+
+/* Create At: */
+"CREATE_AT" = "Create At";
+
+/* Create Script */
+"CREATE_SCRIPT" = "Create Script";
+
+/* Customization */
+"CUSTOMIZATION" = "Customization";
+
+/* Dark Mode */
+"DARK_MODE" = "Dark Mode";
+
+/* Default */
+"DEFAULT_SECTION_NAME" = "Default";
+
+/* Delete */
+"DELETE" = "Delete";
+
+/* Do you wish to delete exist records? */
+"DELETE_EXIST_RECORD" = "Do you wish to delete exist records?";
+
+/* Diagnostic */
+"DIAGNOSTIC" = "Diagnostic";
+
+/* No diagnostic data were generated, try gain later. */
+"DIAGNOSTIC_NO_DATA" = "No diagnostic data were generated, try gain later.";
+
+/* Get here if something goes wrong */
+"DIAGNOSTIC_SETTING_TINT" = "Get here if something goes wrong";
+
+/* Board */
+"DOCK_BOARD" = "Board";
+
+/* Management */
+"DOCK_MANAGEMENT" = "Manager";
+
+/* Misc */
+"DOCK_MISC" = "Misc";
+
+/* Script */
+"DOCK_SCRIPT" = "Script";
+
+/* Server */
+"DOCK_SERVER" = "Server";
+
+/* Summary */
+"DOCK_SUMMARY" = "Summary";
+
+/* Terminal */
+"DOCK_TERMINAL" = "Terminal";
+
+/* Done */
+"DONE" = "Done";
+
+/* Tap twice to execute */
+"DOUBLE_TAP_TO_EXECUTE" = "Tap twice to execute";
+
+/* Edit */
+"EDIT" = "Edit";
+
+/* Edit Metadata */
+"EDIT_META" = "Edit Metadata";
+
+/* Edit Script */
+"EDIT_SCRIPT" = "Edit Script";
+
+/* Enter your PIN number given by uploader to continue. */
+"ENTER_PIN_ALERT_TINT" = "Enter your PIN number given by uploader to continue.";
+
+/* Enter PIN on another device to decrypt transferred data. */
+"ENTER_PIN_ON_ANOTHER_DEVICE_ALERT_TINT" = "Enter PIN on another device to decrypt transferred data.";
+
+/* Error */
+"ERROR" = "Error";
+
+/* Error Occurred */
+"ERROR_OCCURRED" = "Error Occurred";
+
+/* Execute */
+"EXECUTE" = "Execute";
+
+/* Execute this clip requires a target. */
+"EXECUTE_CODE_CLIP_REQUIRE_TARGET" = "Execute this clip requires a target.";
+
+/* Execute Now */
+"EXECUTE_NOW" = "Execute Now";
+
+/* Execution */
+"EXECUTION" = "Execution";
+
+/* Experimental */
+"EXPERIMENTAL" = "Experimental";
+
+/* Testing new features here */
+"EXPERIMENTAL_SETTING_TINT" = "Testing new features here";
+
+/* Failed to decrypt transferred data, PIN may be invalid. Please try again later. */
+"FAILED_DECRYPT_DATA_ALERT_TINT" = "Failed to decrypt transferred data, PIN may be invalid. Please try again later.";
+
+/* Frequently asked questions */
+"FAQ_SETTING_TINT" = "Frequently asked questions";
+
+/* Fluent UI System Icon is designed by Microsoft licensed under MIT License */
+"FLUENT_ICON_DESCRIPTION" = "Fluent UI System Icon is designed by Microsoft licensed under MIT License";
+
+/* Follow System */
+"FOLLOW_SYSTEM" = "Follow System";
+
+/* Gathering Report */
+"GATHERING_REPORT" = "Gathering Report";
+
+/* General */
+"GENERAL" = "General";
+
+/* Configure the main features of Pillow Talk */
+"GENERAL_SETTING_TINT" = "Configure the main features of Pillow Talk";
+
+/* Generic Server */
+"GENERIC_SERVER" = "Generic Server";
+
+/* Hide */
+"HIDE" = "Hide";
+
+/* History */
+"HISTORY" = "History";
+
+/* Hold for more */
+"HODE_FOR_MORE" = "Hold for more";
+
+/* Hostname */
+"HOSTNAME" = "Hostname";
+
+"HUE" = "Hue";
+
+/* Icon */
+"ICON" = "Icon";
+
+/* Import Configuration */
+"IMPORT_CONFIG" = "Import Configuration";
+
+/* Import and overwrite configuration from another device */
+"IMPORT_CONFIG_TINT" = "Import and overwrite configuration from another device";
+
+/* In Update */
+"IN_UPDATE" = "In Update";
+
+/* Input Manually */
+"INPUT_MANUALLY" = "Input Manually";
+
+/* Input target ip address manually here */
+"INPUT_MANUALLY_ALERT_TINT" = "Input target ip address manually here";
+
+/* Key */
+"KEY" = "Key";
+
+/* Key From App Storage */
+"KEY_FROM_APP_SOTRAGE" = "Key From App Storage";
+
+/* Key From Server */
+"KEY_FROM_SERVER" = "Key From Server";
+
+/* Light Mode */
+"LIGHT_MODE" = "Light Mode";
+
+/* Login With Key */
+"LOGIN_WITH_KEY" = "Login With Key";
+
+/* Login With Password */
+"LOGIN_WITH_PASSWORD" = "Login With Password";
+
+/* Management */
+"MANAGEMENT" = "Management";
+
+/* Modify Server */
+"MODIFY" = "Modify Server";
+
+/* Monitor */
+"MONITOR" = "Monitor";
+
+/* Enable Record */
+"MONITOR_ENABLE_RECORD" = "Enable Record";
+
+/* Should we record server status */
+"MONITOR_ENABLE_RECORD_TINT" = "Should we record server status";
+
+/* Monitor Interval */
+"MONITOR_INTERVAL" = "Monitor Interval";
+
+/* Set the interval for each data gathering task */
+"MONITOR_INTERVAL_TINT" = "Set the interval for each data gathering task";
+
+/* A monitor interval that is too small may cost extra load to remote machine. */
+"MONITOR_INTERVAL_VALUE_TINT" = "A monitor interval that is too small may cost extra load to remote machine.";
+
+/* Max Record */
+"MONITOR_MAX_RECORD" = "Max Record";
+
+/* How many record should we keep for each server */
+"MONITOR_MAX_RECORD_TINT" = "How many record should we keep for each server";
+
+/* Monitoring */
+"MONITORING" = "Monitoring";
+
+/* Adjust monitoring rate and others */
+"MONITORING_SETTING_TINT" = "Adjust monitoring rate and others";
+
+/* Mount Point */
+"MOUNT_POINT" = "Mount Point";
+
+/* Example: /coreData/sdd */
+"MOUNT_POINT_EXAMPLE" = "Example: /coreData/sdd";
+
+/* Mount point may be inaccurate due to system limit */
+"MOUNTPOINT_INACCURATE_WARNING" = "Mount point may be inaccurate due to system limit";
+
+/* Name */
+"NAME" = "Name";
+
+/* Board */
+"NAV_TITLE_BOARD" = "Board";
+
+/* Network Interface */
+"NETWORK_INTERFACE" = "Network Interface";
+
+/* Example: enp0s1 */
+"NETWORK_INTERFACE_EXAMPLE" = "Example: enp0s1";
+
+/* Nickname */
+"NICKNAME" = "Nickname";
+
+/* Example: iServer */
+"NICKNAME_EXAMPLE" = "Example: iServer";
+
+/* No Data */
+"NO_DATA" = "No Data";
+
+/* No data available for this server, please try again later. */
+"NO_DATA_AVAILABLE_PLEASE_TRY_AGAIN_LATER" = "No data available for this server, please try again later.";
+
+/* No Key Found */
+"NO_KEY_FOUND" = "No Key Found";
+
+/* No Record Found */
+"NO_RECORD_FOUND" = "No Record Found";
+
+/* NO_SERVER_AVAILABLE */
+"NO_SERVER_AVAILABLE" = "No Server Available";
+
+/* No server registered. Register a server now! */
+"NO_SERVER_REGISTERED_TINT" = "No server registered. Register a server now!";
+
+/* No session can be opened, please add a server first! */
+"NO_SESSION_CAN_OPEN" = "No session can be opened, please add a server first!";
+
+/* No Session Opened */
+"NO_SESSION_OPENED" = "No Session Opened";
+
+/* Not Available */
+"NOT_AVAILABLE" = "Not Available";
+
+/* Now You See Me */
+"NOW_YOU_SEE_ME" = "Now You See Me";
+
+/* OFFLINE */
+"OFFLINE" = "OFFLINE";
+
+/* ONLINE */
+"ONLINE" = "ONLINE";
+
+/* Open Quick Session */
+"OPEN_QUICK_SESSION" = "Open Quick Session";
+
+/* Open Session From Server */
+"OPEN_SESSION_FROM_SERVER" = "Open Session From Server";
+
+/* Other Options */
+"OTHER_OPTIONS" = "Other Options";
+
+/* Outdated */
+"OUTDATED" = "Outdated";
+
+/* Will override if continue, this operation can't be undone. */
+"OVERRIDE_IF_CONTINUE" = "Will override if continue, this operation can't be undone.";
+
+/* Password */
+"PASSWORD" = "Password";
+
+/* Pillow Talk Configurator */
+"PILLOW_TALK_CONFIGURATOR" = "Pillow Talk Configurator";
+
+/* Pin Required */
+"PIN_REQUIRED" = "Pin Required";
+
+/* Please Wait */
+"PLEASE_WAIT" = "Please Wait";
+
+/* Port */
+"PORT" = "Port";
+
+/* Example: 22 */
+"PORT_EXAMPLE" = "Example: 22";
+
+/* Private Key */
+"PRIVATE_KEY" = "Private Key";
+
+/* Public Key */
+"PUBLIC_KEY" = "Public Key";
+
+/* Refresh Now */
+"REFRESH_NOW" = "Refresh Now";
+
+/* Remote Login */
+"REMOTE_LOGIN" = "Remote Login";
+
+/* Required */
+"REQUIRED_TO_FILL" = "Required";
+
+/* Resource Broken */
+"RESOURCE_BROKEN" = "Resource Broken";
+
+/* Running Process */
+"RUNNING_PROCESS" = "Running Process";
+
+/* Save */
+"SAVE" = "Save";
+
+/* Scan QR Code */
+"SCAN_QR_CODE" = "Scan QR Code";
+
+/* Scanning Devices */
+"SCANNING_DEVICES" = "Scanning Devices with Bonjour";
+
+/* Script Duplicated */
+"SCRIPT_DUPLICATED" = "Script Duplicated";
+
+/* Section */
+"SECTION" = "Section";
+
+/* Section Name */
+"SECTION_NAME" = "Section Name";
+
+/* Select Target */
+"SELECT_TARGET" = "Select Target";
+
+/* Server Basic */
+"SERVER_BASIC" = "Server Basic";
+
+/* %d server(s) failed to update */
+"SERVER_FAILED_TO_UPDATE_TINT" = "%d server(s) failed to update";
+
+/* Updating %d */
+"SERVER_IN_UPDATE_%d" = "Updating %d Server(s)";
+
+/* Server Status */
+"SERVER_STATUS" = "Server Status";
+
+/* %d server(s) up to date */
+"SERVER_UP_TO_DATE_TINT" = "%d server(s) up to date";
+
+/* Sessions */
+"SESSIONS" = "Sessions";
+
+/* Settings */
+"SETTINGS" = "Settings";
+
+/* Fill in some information and leave the rest to us. */
+"SHEET_SUBTITLE_EDIT_CODE_CLIP" = "Fill in some information and leave the rest to us.";
+
+/* New Code Clip */
+"SHEET_TITLE_NEW_CODE_CLIP" = "New Code Clip";
+
+/* Shell */
+"SHELL" = "Shell";
+
+/* Code Clip Elements  */
+"SHORTCUT_COMMON_ELEMENTS" = "Code Clip Elements";
+
+/* Embedded Code Clip Elements */
+"SHORTCUT_EMBEDDED_ELEMENTS" = "Embedded Code Clip Elements";
+
+/* Show Raw Record */
+"SHOW_RAW_RECORD" = "Show Raw Record";
+
+/* Application */
+"SIDEBAR_APPLICATION" = "Application";
+
+/* Code Clip */
+"SIDEBAR_CODE_CLIP" = "Script";
+
+/* Dashboard */
+"SIDEBAR_DASHBOARD" = "Dashboard";
+
+/* Help */
+"SIDEBAR_HELP" = "Help";
+
+/* Register Server */
+"SIDEBAR_REG_SERVER" = "Register Server";
+
+/* Remote Login */
+"SIDEBAR_REMOTE_LOGIN" = "Remote Login";
+
+/* Server */
+"SIDEBAR_SERVER" = "Server List";
+
+/* Management */
+"SIDEBAR_SERVER_MANAGER" = "Manager";
+
+/* Setting */
+"SIDEBAR_SETTING" = "Setting";
+
+/* Utils */
+"SIDEBAR_UTILS" = "Utils";
+
+/* SSH + Key */
+"SSH_AND_Key" = "SSH + Key";
+
+/* SSH + Password */
+"SSH_AND_PASSWORD" = "SSH + Password";
+
+/* %ds ago */
+"STATUS_BLOCK_SEC_AGO" = "%ds ago";
+
+/* Status captured at */
+"STATUS_CAPTURED_AT" = "Status captured at";
+
+/* Summary */
+"SUMMARY" = "Summary";
+
+/* Support */
+"SUPPORT" = "Support";
+
+/* Contact us if you still have questions */
+"SUPPORT_SETTING_TINT" = "Contact us if you still have questions";
+
+/* System */
+"SYSTEM" = "System";
+
+/* System Information */
+"SYSTEN_INFORMATION" = "System Information";
+
+/* Tap to execute */
+"TAP_CLICK_TO_EXECUTE" = "Tap to execute";
+
+/* Tap to Open */
+"TAP_TO_OPEN" = "Tap to Open";
+
+/* Target Machine */
+"TARGET_MACHINE" = "Target";
+
+/* Terminate */
+"TERMINATE" = "Terminate";
+
+/* Terminate All */
+"TERMINATE_ALL" = "Terminate All";
+
+/* Are you sure you want to terminate all session? */
+"TERMINATE_ALL_TINT" = "Are you sure you want to terminate all session?";
+
+/* Early exit may result in unknown errors. */
+"TERMINATE_EXECUTION_WARNING" = "Early exit may result in unknown errors.";
+
+/* theme */
+"THEME" = "Theme";
+
+/* Override app's color scheme here */
+"THEME_TINT" = "Override app's color scheme here";
+
+/* This will take some time, please keep the app running in front. */
+"THIS_WILL_TAKE_TIME_TINT" = "This will take some time, please keep the app running in front.";
+
+/* Total Process */
+"TOTAL_PROCESS" = "Total Process";
+
+/* Transfer Config */
+"TRANSFER_CONFIG" = "Transfer Config";
+
+/* Manually connect using following addresses */
+"TRANSFER_CONFIG_INSTRUCTION_INPUT" = "Manually connect using following addresses";
+
+/* Scan QRCode to import configuration from other devices running PillowTalk. */
+"TRANSFER_CONFIG_INSTRUCTION_SCAN" = "Scan QRCode to import configuration from other devices running PillowTalk.";
+
+/* Send current configuration to another device */
+"TRANSFER_CONFIG_TINT" = "Send current configuration to another device";
+
+/* Transfer in progress */
+"TRANSFER_IN_PROGRESS_ALERT_TINT" = "Transfer in progress";
+
+/* Transfer Config */
+"TRANSFER_SERVER" = "Transfer Config";
+
+/* Unhide */
+"UNHIDE" = "Unhide";
+
+/* Unknown Address */
+"UNKNOWN_ADDRESS" = "Unknown Address";
+
+/* Unknown Error */
+"UNKNOWN_ERROR" = "Unknown Error";
+
+/* Uptime */
+"UPTIME" = "Uptime";
+
+/* Usage */
+"USAGE" = "Usage";
+
+/* Show the usage of the app */
+"USAGE_SETTING_TINT" = "Show the usage of the app";
+
+/* Please use password */
+"USE_PASSWORD" = "Please use password";
+
+/* Username */
+"USERNAME" = "Username";
+
+/* Example: root */
+"USERNAME_EXAMPLE" = "Example: root";
+
+/* Warning */
+"WARNING" = "Warning";
+
+/* Welcome Abroad */
+"WELCOME_ABROAD" = "Welcome Abroad";
+
+/* Will execute clip on server: %@ */
+"WILL_EXECUTE_ON_SERVER_WITH_NAME" = "Will execute clip on server: %@";

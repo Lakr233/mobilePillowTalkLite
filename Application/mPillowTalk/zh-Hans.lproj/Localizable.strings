@@ -1,0 +1,724 @@
+/* %d key(s) in total */
+"%d_KEYS_IN_TOTAL" = "共找到 %d 个密钥";
+
+/* %d records in total */
+"%d_RECORD_IN_TOTAL" = "共有 %d 份历史记录";
+
+/* %ds */
+"%d_SECOND" = "%d 秒";
+
+/* %d section(s), %d server(s) */
+"%d_SECTIONS_%d_SERVERS" = "共 %d 个分组 - 共 %d 台服务器";
+
+/* %d servers registered */
+"%d_SERVER_REGISTERED" = "已注册 %d 台服务器";
+
+/* Account */
+"ACCOUNT" = "账户";
+
+/* Accounts */
+"ACCOUNTS" = "账户";
+
+/* Manage accounts and keys associated with your server */
+"ACCOUNTS_SETTING_TINT" = "管理账户和钥匙串";
+
+/* Add */
+"ADD" = "添加";
+
+/* Add Clip */
+"ADD_CLIP" = "添加捷径";
+
+/* Add Server */
+"ADD_SERVER" = "添加服务器";
+
+/* Add server under %@ */
+"ADD_SERVER_UNDER_SECTION" = "在 %@ 内添加服务器";
+
+/* Address */
+"ADDRESS" = "地址";
+
+/* Example: 192.168.1.1 */
+"ADDRESS_EXAMPLE" = "例如 192.168.1.1";
+
+/* An error occurred during submission, check your sheet carefully. */
+"ALERT_ERROR_SUBMIT_NEW_SERVER_TINT" = "表单内容存在错误，请仔细检查。";
+
+/* All Core */
+"ALL_CORE" = "综合";
+
+/* All System Operational */
+"ALL_SYSTEM_OPERATIONAL" = "系统运行正常";
+
+/* Pillow Talk */
+"APP_NAME" = "枕边语";
+
+/* Checkpoint */
+"APP_NOUN_CHECKPOINT" = "检查点";
+
+/* Manage */
+"APP_NOUN_MANAGE" = "管理";
+
+/* Management */
+"APP_NOUN_MANAGEMENT" = "Management";
+
+/* Monitoring */
+"APP_NOUN_MONITORING" = "Monitoring";
+
+/* Registered */
+"APP_NOUN_REGISTERED" = "Registered";
+
+/* Scheduled jobs */
+"APP_NOUN_SCHEDULED_JOBS" = "计划任务";
+
+/* Server */
+"APP_NOUN_SERVER" = "服务器";
+
+/* Warning */
+"APP_NOUN_WARN" = "警告";
+
+/* App Protection */
+"APP_PROTECTION" = "应用保护";
+
+/* Execution Protection */
+"APP_PROTECTION_SCRIPT" = "脚本执行保护";
+
+/* Authenticate when execute script on server */
+"APP_PROTECTION_SCRIPT_TINT" = "在远程主机上执行脚本之前要求验证";
+
+/* Protect us from unauthorized operations when app become active */
+"APP_PROTECTION_TINT" = "在打开应用时要求验证用户的设备所有权";
+
+/* An error occurred previously during application setup. */
+"APP_RECOVERY_DESCRIPTION" = "应用启动过程中可能遇到了问题。";
+
+/* Continue */
+"APP_RECOVERY_OPTION_CONTINUE" = "继续";
+
+/* Try Again */
+"APP_RECOVERY_OPTION_REBOOT" = "再次尝试";
+
+/* Exit the app and try again. Try something else if error priests. */
+"APP_RECOVERY_OPTION_REBOOT_DESCRIPTION" = "这会关闭应用。如果错误持续存请尝试其他选项。";
+
+/* Reset Application */
+"APP_RECOVERY_OPTION_RESET" = "重置应用";
+
+/* Delete all your data in this app and start fresh. */
+"APP_RECOVERY_OPTION_RESET_DESCRIPTION" = "这会清空你在此应用中储存的全部数据";
+
+/* App Recovery */
+"APP_RECOVERY_TITLE" = "恢复";
+
+/* App Status */
+"APP_STATUS" = "状态信息";
+
+/* Appearance */
+"APPERANCE" = "外观";
+
+/* Make the app in your taste */
+"APPERANCE_SETTING_TINT" = "个性化外观设置";
+
+/* Application does not have any diagnostic data, try again later. */
+"APPLICATION_NO_LOG" = "没有收集到诊断信息，请稍后再试。";
+
+/* Are you sure you want to delete %@? */
+"ARE_YOU_SURE_DELETE_SCRIPT" = "你确定要删除 %@ 吗？";
+
+/* Are you sure you want to delete %@? */
+"ARE_YOU_SURE_DELETE_SERVER" = "删除 %@ 的操作不可逆。";
+
+/* Authentication enabled and required */
+"AUTH_ERQUIRED" = "需要验证设备所有权信息来解锁应用";
+
+/* Average Load 15 min */
+"AVERAGE_LOAD_15_MIN" = "15 分钟内平均负载";
+
+/* Average Load 1 min */
+"AVERAGE_LOAD_1_MIN" = "1 分钟内平均负载";
+
+/* Average Load 5 min */
+"AVERAGE_LOAD_5_MIN" = "5 分钟内平均负载";
+
+/* No device found over Bonjour service */
+"BONJOUR_NO_DEVICE_FOUND" = "Bonjour 服务未找到有效的数据";
+
+/* Cancel */
+"CANCEL" = "取消";
+
+/* Close */
+"CLOSE" = "关闭";
+
+/* Coming Soon */
+"COMING_SOON" = "稍后见面！";
+
+/* We are polishing our terminal view and fixing bugs in it, come back later in next version. We meet you there. */
+"COMING_SOON_TINT" = "我们正在打磨我们的终端，修复一些错误。我们将在下个版本与你相约。";
+
+/* Confirm */
+"CONFIRM" = "确认";
+
+/* Connect */
+"CONNECT" = "连接";
+
+/* Failed to open session for shell, please try again later. */
+"CONNECT_FAILED" = "无法打开连接会话，请稍后重试。";
+
+/* Connectivity */
+"CONNECTIVITY" = "连接性";
+
+/* Continue */
+"CONTINUE" = "继续";
+
+/* Copied */
+"COPIED" = "已拷贝";
+
+/* Copied SSH command. */
+"COPIED_SSH_COMMAND_ALERT" = "SSH 指令已拷贝到剪贴板";
+
+/* Copy */
+"COPY" = "拷贝";
+
+/* Copy Name */
+"COPY_NAME" = "复制名称";
+
+/* Copied server name. */
+"COPY_NAME_ALERT" = "已复制名称";
+
+/* Copyright © 2020 Pillow Talk Team. All rights reserved. */
+"COPY_RIGHT_FULL" = "版权所有 © 2020 枕边语团队保留所有权利";
+
+/* Copy Script */
+"COPY_SCRIPT" = "拷贝脚本";
+
+/* Copy SSH Command */
+"COPY_SSH_COMMAND" = "复制 SSH 指令";
+
+/* Create */
+"CREATE" = "创建";
+
+/* Create At: */
+"CREATE_AT" = "创建于";
+
+/* Create Script */
+"CREATE_SCRIPT" = "创建脚本";
+
+/* Customization */
+"CUSTOMIZATION" = "偏好设置";
+
+/* Dark Mode */
+"DARK_MODE" = "黑暗模式";
+
+/* Default */
+"DEFAULT_SECTION_NAME" = "通用";
+
+/* Delete */
+"DELETE" = "删除";
+
+/* Do you wish to delete exist records? */
+"DELETE_EXIST_RECORD" = "需要删除已经存在的记录吗？";
+
+/* Diagnostic */
+"DIAGNOSTIC" = "诊断";
+
+/* No diagnostic data were generated, try gain later. */
+"DIAGNOSTIC_NO_DATA" = "没有捕获的诊断数据，请稍后再试。";
+
+/* Get here if something goes wrong */
+"DIAGNOSTIC_SETTING_TINT" = "如果应用出现问题请来此处";
+
+/* Board */
+"DOCK_BOARD" = "面板";
+
+/* Management */
+"DOCK_MANAGEMENT" = "管理";
+
+/* Misc */
+"DOCK_MISC" = "设置";
+
+/* Script */
+"DOCK_SCRIPT" = "脚本";
+
+/* Server */
+"DOCK_SERVER" = "服务器";
+
+/* Summary */
+"DOCK_SUMMARY" = "概览";
+
+/* Terminal */
+"DOCK_TERMINAL" = "终端";
+
+/* Done */
+"DONE" = "确定";
+
+/* Tap twice to execute */
+"DOUBLE_TAP_TO_EXECUTE" = "双击执行";
+
+/* Edit */
+"EDIT" = "编辑";
+
+/* Edit Metadata */
+"EDIT_META" = "编辑信息";
+
+/* Edit Script */
+"EDIT_SCRIPT" = "编辑脚本";
+
+/* Enter your PIN number given by uploader to continue. */
+"ENTER_PIN_ALERT_TINT" = "请输入 PIN 码以解密转移的数据";
+
+/* Enter PIN on another device to decrypt transferred data. */
+"ENTER_PIN_ON_ANOTHER_DEVICE_ALERT_TINT" = "在另一台设备上输入 PIN 码来解密数据";
+
+/* Error */
+"ERROR" = "错误";
+
+/* Error Occurred */
+"ERROR_OCCURRED" = "存在异常";
+
+/* Execute */
+"EXECUTE" = "执行";
+
+/* Execute this clip requires a target. */
+"EXECUTE_CODE_CLIP_REQUIRE_TARGET" = "执行脚本需要选择目标主机。";
+
+/* Execute Now */
+"EXECUTE_NOW" = "立即执行";
+
+/* Execution */
+"EXECUTION" = "执行";
+
+/* Experimental */
+"EXPERIMENTAL" = "实验";
+
+/* Testing new features here */
+"EXPERIMENTAL_SETTING_TINT" = "尝试试验性功能";
+
+/* Failed to decrypt transferred data, PIN may be invalid. Please try again later. */
+"FAILED_DECRYPT_DATA_ALERT_TINT" = "无法解密传输的数据，请检查 PIN 码并在稍后重试。";
+
+/* Frequently asked questions */
+"FAQ_SETTING_TINT" = "常见问题与回答";
+
+/* Fluent UI System Icon is designed by Microsoft licensed under MIT License */
+"FLUENT_ICON_DESCRIPTION" = "Fluent 系统图标来自微软且适用于 MIT 许可";
+
+/* Follow System */
+"FOLLOW_SYSTEM" = "跟随系统";
+
+/* Gathering Report */
+"GATHERING_REPORT" = "正在收集状态信息";
+
+/* General */
+"GENERAL" = "通用";
+
+/* Configure the main features of Pillow Talk */
+"GENERAL_SETTING_TINT" = "调整常见的通用设置";
+
+/* Generic Server */
+"GENERIC_SERVER" = "通用服务器";
+
+/* Hide */
+"HIDE" = "隐藏";
+
+/* History */
+"HISTORY" = "历史记录";
+
+/* Hold for more */
+"HODE_FOR_MORE" = "长按展开选项";
+
+/* Hostname */
+"HOSTNAME" = "主机名";
+
+"HUE" = "色调";
+
+/* Icon */
+"ICON" = "图标";
+
+/* Import Configuration */
+"IMPORT_CONFIG" = "导入配置";
+
+/* Import and overwrite configuration from another device */
+"IMPORT_CONFIG_TINT" = "从其他设备传入配置并覆盖";
+
+/* In Update */
+"IN_UPDATE" = "正在更新";
+
+/* Input Manually */
+"INPUT_MANUALLY" = "手动输入";
+
+/* Input target ip address manually here */
+"INPUT_MANUALLY_ALERT_TINT" = "手动输入网络地址来上传配置";
+
+/* Key */
+"KEY" = "密钥";
+
+/* Key From App Storage */
+"KEY_FROM_APP_SOTRAGE" = "储存在此应用的密钥";
+
+/* Key From Server */
+"KEY_FROM_SERVER" = "分配在服务器的密钥";
+
+/* Light Mode */
+"LIGHT_MODE" = "浅色模式";
+
+/* Login With Key */
+"LOGIN_WITH_KEY" = "密钥登录";
+
+/* Login With Password */
+"LOGIN_WITH_PASSWORD" = "密码登录";
+
+/* Management */
+"MANAGEMENT" = "管理";
+
+/* Modify Server */
+"MODIFY" = "修改";
+
+/* Monitor */
+"MONITOR" = "监视";
+
+/* Enable Record */
+"MONITOR_ENABLE_RECORD" = "启用历史记录";
+
+/* Should we record server status */
+"MONITOR_ENABLE_RECORD_TINT" = "是否需要保存服务器的历史记录";
+
+/* Monitor Interval */
+"MONITOR_INTERVAL" = "监视间隔";
+
+/* Set the interval for each data gathering task */
+"MONITOR_INTERVAL_TINT" = "设置每次获取数据的时间间隔";
+
+/* A monitor interval that is too small may cost extra load to remote machine. */
+"MONITOR_INTERVAL_VALUE_TINT" = "过小的时间间隔可能会给远端主机带来额外的开销";
+
+/* Max Record */
+"MONITOR_MAX_RECORD" = "历史记录";
+
+/* How many record should we keep for each server */
+"MONITOR_MAX_RECORD_TINT" = "指定历史记录储存的最大数量";
+
+/* Monitoring */
+"MONITORING" = "监视";
+
+/* Adjust monitoring rate and others */
+"MONITORING_SETTING_TINT" = "自定义监视选项";
+
+/* Mount Point */
+"MOUNT_POINT" = "挂载点";
+
+/* Example: /coreData/sdd */
+"MOUNT_POINT_EXAMPLE" = "例如 /coreData/sdd";
+
+/* Mount point may be inaccurate due to system limit */
+"MOUNTPOINT_INACCURATE_WARNING" = "挂载点信息可能不准确";
+
+/* Name */
+"NAME" = "名称";
+
+/* Board */
+"NAV_TITLE_BOARD" = "概览";
+
+/* Network Interface */
+"NETWORK_INTERFACE" = "网络接口";
+
+/* Example: enp0s1 */
+"NETWORK_INTERFACE_EXAMPLE" = "例如 enp0s1";
+
+/* Nickname */
+"NICKNAME" = "昵称";
+
+/* Example: iServer */
+"NICKNAME_EXAMPLE" = "例如 通用服务器";
+
+/* No Data */
+"NO_DATA" = "无数据";
+
+/* No data available for this server, please try again later. */
+"NO_DATA_AVAILABLE_PLEASE_TRY_AGAIN_LATER" = "没有可用的数据，请稍后再试。";
+
+/* No Key Found */
+"NO_KEY_FOUND" = "未找到密钥";
+
+/* No Record Found */
+"NO_RECORD_FOUND" = "未找到历史记录";
+
+/* NO_SERVER_AVAILABLE */
+"NO_SERVER_AVAILABLE" = "暂无监视中的主机";
+
+/* No server registered. Register a server now! */
+"NO_SERVER_REGISTERED_TINT" = "尚未注册服务器。";
+
+/* No session can be opened, please add a server first! */
+"NO_SESSION_CAN_OPEN" = "无法创建远程登录会话，请先添加一些服务器。";
+
+/* No Session Opened */
+"NO_SESSION_OPENED" = "没有打开的会话";
+
+/* Not Available */
+"NOT_AVAILABLE" = "不可用";
+
+/* Now You See Me */
+"NOW_YOU_SEE_ME" = "简述";
+
+/* OFFLINE */
+"OFFLINE" = "网络不可用";
+
+/* ONLINE */
+"ONLINE" = "已连接到互联网";
+
+/* Open Quick Session */
+"OPEN_QUICK_SESSION" = "快捷登录";
+
+/* Open Session From Server */
+"OPEN_SESSION_FROM_SERVER" = "登录已注册的服务器";
+
+/* Other Options */
+"OTHER_OPTIONS" = "其他选项";
+
+/* Outdated */
+"OUTDATED" = "已过期";
+
+/* Will override if continue, this operation can't be undone. */
+"OVERRIDE_IF_CONTINUE" = "这会覆盖原先的配置，且不可撤销。";
+
+/* Password */
+"PASSWORD" = "密码";
+
+/* Pillow Talk Configurator */
+"PILLOW_TALK_CONFIGURATOR" = "枕边语配置向导";
+
+/* Pin Required */
+"PIN_REQUIRED" = "需要 PIN 码";
+
+/* Please Wait */
+"PLEASE_WAIT" = "请稍后";
+
+/* Port */
+"PORT" = "端口";
+
+/* Example: 22 */
+"PORT_EXAMPLE" = "22";
+
+/* Private Key */
+"PRIVATE_KEY" = "私钥";
+
+/* Public Key */
+"PUBLIC_KEY" = "公钥";
+
+/* Refresh Now */
+"REFRESH_NOW" = "立即刷新";
+
+/* Remote Login */
+"REMOTE_LOGIN" = "远程登录";
+
+/* Required */
+"REQUIRED_TO_FILL" = "必填";
+
+/* Resource Broken */
+"RESOURCE_BROKEN" = "资源丢失";
+
+/* Running Process */
+"RUNNING_PROCESS" = "运行程序";
+
+/* Save */
+"SAVE" = "保存";
+
+/* Scan QR Code */
+"SCAN_QR_CODE" = "扫描二维码";
+
+/* Scanning Devices */
+"SCANNING_DEVICES" = "正在使用 Bonjour 扫描设备";
+
+/* Script Duplicated */
+"SCRIPT_DUPLICATED" = "脚本已存在";
+
+/* Section */
+"SECTION" = "分组";
+
+/* Section Name */
+"SECTION_NAME" = "分组名称";
+
+/* Select Target */
+"SELECT_TARGET" = "选择目标";
+
+/* Server Basic */
+"SERVER_BASIC" = "服务器基础信息";
+
+/* %d server(s) failed to update */
+"SERVER_FAILED_TO_UPDATE_TINT" = "%d 台服务器状态更新失败";
+
+/* Updating %d */
+"SERVER_IN_UPDATE_%d" = "%d 份数据更新中";
+
+/* Server Status */
+"SERVER_STATUS" = "服务器状态";
+
+/* %d server(s) up to date */
+"SERVER_UP_TO_DATE_TINT" = "已更新 %d 台服务器";
+
+/* Sessions */
+"SESSIONS" = "会话";
+
+/* Settings */
+"SETTINGS" = "设置";
+
+/* Fill in some information and leave the rest to us. */
+"SHEET_SUBTITLE_EDIT_CODE_CLIP" = "填写一些信息，剩下的交给我们。";
+
+/* New Code Clip */
+"SHEET_TITLE_NEW_CODE_CLIP" = "添加代码捷径";
+
+/* Shell */
+"SHELL" = "终端";
+
+/* Code Clip Elements */
+"SHORTCUT_COMMON_ELEMENTS" = "代码捷径元素";
+
+/* Embedded Code Clip Elements */
+"SHORTCUT_EMBEDDED_ELEMENTS" = "内建捷径元素";
+
+/* Show Raw Record */
+"SHOW_RAW_RECORD" = "显示原始数据";
+
+/* Application */
+"SIDEBAR_APPLICATION" = "应用程序";
+
+/* Code Clip */
+"SIDEBAR_CODE_CLIP" = "代码捷径";
+
+/* Dashboard */
+"SIDEBAR_DASHBOARD" = "面板";
+
+/* Help */
+"SIDEBAR_HELP" = "帮助文档";
+
+/* Register Server */
+"SIDEBAR_REG_SERVER" = "注册服务器";
+
+/* Remote Login */
+"SIDEBAR_REMOTE_LOGIN" = "远程登录";
+
+/* Server */
+"SIDEBAR_SERVER" = "服务器列表";
+
+/* Management */
+"SIDEBAR_SERVER_MANAGER" = "管理";
+
+/* Setting */
+"SIDEBAR_SETTING" = "应用设置";
+
+/* Utils */
+"SIDEBAR_UTILS" = "工具箱";
+
+/* SSH + Key */
+"SSH_AND_Key" = "SSH + 密钥";
+
+/* SSH + Password */
+"SSH_AND_PASSWORD" = "SSH + 密码";
+
+/* %ds ago */
+"STATUS_BLOCK_SEC_AGO" = "%d秒前";
+
+/* Status captured at */
+"STATUS_CAPTURED_AT" = "状态捕捉于";
+
+/* Summary */
+"SUMMARY" = "综述";
+
+/* Support */
+"SUPPORT" = "支持";
+
+/* Contact us if you still have questions */
+"SUPPORT_SETTING_TINT" = "如果问题无法解决请联系我们";
+
+/* System */
+"SYSTEM" = "系统";
+
+/* System Information */
+"SYSTEN_INFORMATION" = "系统信息";
+
+/* Tap to execute */
+"TAP_CLICK_TO_EXECUTE" = "点击执行";
+
+/* Tap to Open */
+"TAP_TO_OPEN" = "点击打开";
+
+/* Target Machine */
+"TARGET_MACHINE" = "目标主机";
+
+/* Terminate */
+"TERMINATE" = "终止";
+
+/* Terminate All */
+"TERMINATE_ALL" = "终止全部连接";
+
+/* Are you sure you want to terminate all session? */
+"TERMINATE_ALL_TINT" = "你确定要终止全部的连接吗？";
+
+/* Early exit may result in unknown errors. */
+"TERMINATE_EXECUTION_WARNING" = "提前退出可能导致未知错误。";
+
+/* theme */
+"THEME" = "主题";
+
+/* Override app's color scheme here */
+"THEME_TINT" = "在这里选择浅色主题或是深色主题";
+
+/* This will take some time, please keep the app running in front. */
+"THIS_WILL_TAKE_TIME_TINT" = "这会花费一些时间，请保持应用在前台运行。";
+
+/* Total Process */
+"TOTAL_PROCESS" = "全部进程";
+
+/* Transfer Config */
+"TRANSFER_CONFIG" = "转移配置";
+
+/* Manually connect using following addresses */
+"TRANSFER_CONFIG_INSTRUCTION_INPUT" = "如需手动连接请填入下面的地址";
+
+/* Scan QRCode to import configuration from other devices running PillowTalk. */
+"TRANSFER_CONFIG_INSTRUCTION_SCAN" = "请从另一台运行枕边语的设备上执行导出配置任务并扫描二维码。";
+
+/* Send current configuration to another device */
+"TRANSFER_CONFIG_TINT" = "将本地的配置发送到另一台设备";
+
+/* Transfer in progress */
+"TRANSFER_IN_PROGRESS_ALERT_TINT" = "正在应用转移数据";
+
+/* Transfer Config */
+"TRANSFER_SERVER" = "转移新配置";
+
+/* Unhide */
+"UNHIDE" = "取消隐藏";
+
+/* Unknown Address */
+"UNKNOWN_ADDRESS" = "未知地址";
+
+/* Unknown Error */
+"UNKNOWN_ERROR" = "未知错误";
+
+/* Uptime */
+"UPTIME" = "开机时间";
+
+/* Usage */
+"USAGE" = "用量";
+
+/* Show the usage of the app */
+"USAGE_SETTING_TINT" = "显示应用用量数据";
+
+/* Please use password */
+"USE_PASSWORD" = "请使用设备密码";
+
+/* Username */
+"USERNAME" = "用户名";
+
+/* Example: root */
+"USERNAME_EXAMPLE" = "root";
+
+/* Warning */
+"WARNING" = "警告";
+
+/* Welcome Abroad */
+"WELCOME_ABROAD" = "欢迎";
+
+/* Will execute clip on server: %@ */
+"WILL_EXECUTE_ON_SERVER_WITH_NAME" = "将会在 %@ 上执行捷径";

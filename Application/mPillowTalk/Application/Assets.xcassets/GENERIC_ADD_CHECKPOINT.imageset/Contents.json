@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "GENERIC_ADD_CHECKPOINT.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "GENERIC_ADD_CHECKPOINT@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "GENERIC_ADD_CHECKPOINT@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

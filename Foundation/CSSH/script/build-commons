@@ -1,0 +1,23 @@
+#!/bin/bash
+#
+# build-commons
+# Copyright © 2020 Dmitriy Borovikov. All rights reserved.
+#
+
+buildFatLibrary () {
+  local inputs=$1
+  local output=$2
+  local dirname=`dirname "$2"`
+
+  mkdir -p "$dirname" || true
+  lipo -create $inputs -output "$output"
+}
+
+copyHeaders () {
+  local input=$1
+  local output=$2
+
+  rm -rf "$output"
+  mkdir -p "$output"
+  cp -RL "$input" "$output"
+}

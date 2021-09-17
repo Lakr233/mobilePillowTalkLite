@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  mPillowTalk
+
+  Created by Lakr Aream on 4/17/21.
+  
+*/
+
+NSCameraUsageDescription = "我们需要相机的访问权限来执行扫描二维码等操作，你的相机数据不会离开你的设备。";
+NSLocalNetworkUsageDescription = "我们需要本地网络的访问权限来连接本地服务器。";
+NSFaceIDUsageDescription = "FaceID 将被用于验证操作合法性";
